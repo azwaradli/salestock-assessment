@@ -1,0 +1,28 @@
+body{
+	background-color: #EEEEEE;
+}
+
+.navbar{
+	margin-bottom: 0px;
+}
+
+.jumbotron{
+	min-height: 570px;
+	margin-bottom: 0px;
+}
+
+.jumbotron .btn{
+	margin-bottom:6px;
+}
+
+footer{
+	display: block;
+	text-align: center;
+	background-color: #F8F8F8;
+	width: 100%;
+	min-height: 60px;
+}
+
+footer p{
+	transform: translate(0, 100%);
+}
