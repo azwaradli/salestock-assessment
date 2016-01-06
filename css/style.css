@@ -1,6 +1,9 @@
 body{
 	background-image: url("../images/starwars wallpaper.JPG");
+	background-repeat: no-repeat;
 	width: 100%;
+	background-color: black;
+	font-family: 'robotoregular';
 	/*background-color: #EEEEEE;*/
 }
 
@@ -17,6 +20,7 @@ footer p a,
 	color: #E0E0E0;
 }
 
+footer p a:hover,
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-nav > li > a:hover{
 	color: #9e9e9e;
