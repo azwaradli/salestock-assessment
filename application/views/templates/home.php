@@ -11,4 +11,4 @@
 	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 	<link rel="stylesheet" type="text/css" href="assets/fonts/roboto_regular_macroman/stylesheet.css" />
 </head>
-<body>
+<body ng-app="myApp">
